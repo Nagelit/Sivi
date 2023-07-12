@@ -1,2 +1,3 @@
 Estructura Json Sivi
-![Sivi_Structure](https://github.com/Nagelit/Sivi/assets/133640573/0c4b7a37-77ba-4fc2-b6dd-1da4ea99e60f)
+
+![Sivi_Structure2](https://github.com/Nagelit/Sivi/assets/133640573/2b140463-5d15-4774-a90b-eebd2275bc5e)
